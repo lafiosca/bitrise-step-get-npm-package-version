@@ -12,7 +12,7 @@ title: |-
 summary: |
   Sets an environment variable with the npm package version
 description: |
-  Sets environment variable `$PACKAGE_VERSION` with the value found in the "version" field of package.json, for use in later steps
+  Sets environment variable `$NPM_PACKAGE_VERSION` with the value found in the "version" field of package.json, for use in later steps
 website: https://github.com/lafiosca/bitrise-step-get-npm-package-version
 source_code_url: https://github.com/lafiosca/bitrise-step-get-npm-package-version
 support_url: https://github.com/lafiosca/bitrise-step-get-npm-package-version/issues

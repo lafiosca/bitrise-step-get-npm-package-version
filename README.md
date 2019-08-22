@@ -1,6 +1,6 @@
 # Get npm package version
 
-Sets environment variable `$PACKAGE_VERSION` with the value found in the "version" field of package.json, for use in later steps.
+Sets environment variable `$NPM_PACKAGE_VERSION` with the value found in the "version" field of package.json, for use in later steps.
 
 ## How to use this Step
 
